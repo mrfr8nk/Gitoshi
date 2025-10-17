@@ -1,0 +1,13 @@
+{
+  "name": "github-repo-manager",
+  "version": "1.0.0",
+  "description": "Upload ZIP files to GitHub repositories",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build needed'"
+  },
+  "keywords": ["github", "repository", "upload", "zip"],
+  "author": "Darrell Mucheri",
+  "license": "MIT"
+}
